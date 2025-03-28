@@ -1,0 +1,9 @@
+x=input("please enter")
+if x .islower():
+    print("lower")
+elif x .isupper():
+    print("upper")
+elif x .isdigit():
+    print("digit") 
+else:
+    print("special")
